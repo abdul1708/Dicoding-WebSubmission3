@@ -1,11 +1,11 @@
 {
-  "name": "-",
-  "short_name": "My PWA",
-  "description": "-",
+  "name": "Portal Mobile Legend ",
+  "short_name": "PWA - Mobile Legend ",
+  "description": "Mobile Legends: Bang Bang adalah sebuah permainan MOBA yang dirancang untuk ponsel. ",
   "start_url": "/index.html",
   "display": "standalone",
-  "background_color": "#00897B",
-  "theme_color": "#00897B",
+  "background_color": "#ee6e73",
+  "theme_color": "#ee6e73",
   "icons": [
     {
       "src": "/assets/img/moba512.png",
